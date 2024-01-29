@@ -1,5 +1,4 @@
 # Photoshop_Lite
-Java Photo Editing Project
 This Java application is designed for photo editing, enabling users to alter the RGB values of pixels using various filters. The project utilizes image processing algorithms to implement seven different filter options: Laplacian, Gaussian Blur, Negative, Edgy, Unsharp Masking, Vertical Flip, and Horizontal Flip.
 
 Features
