@@ -1,5 +1,3 @@
-// The first major problem we encountered while completing this project was figuring out the for loops that would only iterate over pixels that were not at the edge of the screen. At first we thought we could use data.length within using the nested for loops, but realized we must use ”getHeight() - 1” and “getWidth() - 1”
-//Another tricky portion in regards to the arrays was constantly getting the “out of bounds” errors, which were very easy to get.
 
 /**
  * A class to configure the SnapShop application
